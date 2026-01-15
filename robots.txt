@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.west52ventures.com/sitemap.xml
+Sitemap: https://west52ventures.com/sitemap.xml
